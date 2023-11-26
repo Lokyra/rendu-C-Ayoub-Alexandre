@@ -1,0 +1,3 @@
+/home/ayoub/CLionProjects/exercice5/cmake-build-debug/CMakeFiles/exercice5.dir
+/home/ayoub/CLionProjects/exercice5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ayoub/CLionProjects/exercice5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
